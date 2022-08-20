@@ -3,4 +3,5 @@ The tester
 Search
 Sign up
 Check
+Practice
 These are the steps to take
