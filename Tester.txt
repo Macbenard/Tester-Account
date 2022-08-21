@@ -7,5 +7,4 @@ Practice
 Confirm
 Subset
 second subset
-set
 These are the steps to take
